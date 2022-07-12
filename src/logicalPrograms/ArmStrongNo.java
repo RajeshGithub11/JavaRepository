@@ -25,6 +25,7 @@ public class ArmStrongNo {
 			System.out.println("Given No"+orgNum+"is not Armstrong Number");
 		}
 
+		//Swapnil is one man army.....
 	}
 
 }
